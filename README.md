@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tym21
 - 🌱 I’m currently learning pyhton, react, java and flutter
-- 📫 How to reach me @by.tim21 on instagram
+- 📫 How to reach me @tim21dev on twitter
 
 <!---
 tym21/tym21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
