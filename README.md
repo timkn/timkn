@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @tym21
-- 🌱 I’m currently learning pyhton, react, java and flutter
+- 👋 Hi, I’m Tim
+- 🌱 I’m interested in Java, Python and React
 - 📫 How to reach me @tim21dev on twitter
 
 <!---
