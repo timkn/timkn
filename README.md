@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Tim
-- 🌱 I’m interested in Java, Python and React
+- 👀 I’m interested in Java, Python and React
+- 🌱 I’m currently learning Rust
 - 📫 How to reach me: contact@knothe.me
 
 <!---
