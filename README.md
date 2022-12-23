@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in Java, Python and React
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Python and React
+- 🌱 I’m currently learning Rust, Swift, C
 
 <!---
 tym21/tym21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
