@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in Python and React
+- 👀 I’m interested in Python, Rust, Java
 - 🌱 I’m currently learning Rust, Swift, C
 
 <!---
